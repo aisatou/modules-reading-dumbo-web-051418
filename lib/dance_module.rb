@@ -11,4 +11,7 @@ class Dance
   def pirouette
   end
   
+  def take_a_bow
+  end
+  
 end
