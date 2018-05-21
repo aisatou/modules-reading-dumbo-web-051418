@@ -5,4 +5,7 @@ class Dance
   def twirl
   end
   
+  def jump
+  end
+  
 end
