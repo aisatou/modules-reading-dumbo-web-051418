@@ -8,4 +8,7 @@ class Dance
   def jump
   end
   
+  def pirouette
+  end
+  
 end
